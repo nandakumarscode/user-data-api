@@ -1,0 +1,11 @@
+body{
+  background: #f1f1f1f8;
+}
+.App {
+  text-align: center;
+}
+.search--input{
+  width:30% !important;
+  margin: 20px 0;
+}
+
